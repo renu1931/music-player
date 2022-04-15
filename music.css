@@ -6,7 +6,6 @@
     font-family: 'Fira Sans', sans-serif;
     font-family: 'Varela Round', sans-serif;
     font-family: 'Viga', sans-serif;
-
 }
 #main{
  width: 100vw;
@@ -15,9 +14,6 @@
  display: grid;
  place-items: center;
 text-transform: uppercase;
-
-
-
 }
 #img_container{
     width: 18rem;
@@ -51,7 +47,6 @@ text-transform: uppercase;
 #tittle{
     padding: 10px;
     margin-top: -15px;
-   
 }
 #artist{
     padding-bottom: 10px;
